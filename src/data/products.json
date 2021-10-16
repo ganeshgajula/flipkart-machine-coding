@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "brand": "FastColors",
+    "description": "Full Sleeve Solid Men",
+    "discountPrice": 494,
+    "actualPrice": 2199,
+    "discountPercent": 77,
+    "gender": "men",
+    "size": ["S", "M", "L", "XL"],
+    "image": "https://rukminim1.flixcart.com/image/540/648/kgmla4w0/sweatshirt/r/p/h/l-fc6039-fastcolors-original-imafwtyfw3zynjrp.jpeg?q=50"
+  },
+  {
+    "id": 2,
+    "brand": "Seven Rocks",
+    "description": "Color Block Men Round",
+    "discountPrice": 299,
+    "actualPrice": 1299,
+    "discountPercent": 76,
+    "gender": "men",
+    "size": ["S", "M", "L", "XL"],
+    "image": "https://rukminim1.flixcart.com/image/540/648/khmbafk0-0/t-shirt/w/j/s/xs-t322-blwh-seven-rocks-original-imafxhagtyj2xvpn.jpeg?q=50"
+  },
+  {
+    "id": 3,
+    "brand": "Bike",
+    "description": "Printed Men Hoodie",
+    "discountPrice": 319,
+    "actualPrice": 1999,
+    "discountPercent": 84,
+    "gender": "men",
+    "size": ["S", "L"],
+    "image": "https://rukminim1.flixcart.com/image/540/648/kt7jv680/sweatshirt/2/z/n/8-9-years-fc8614-fastcolors-original-imag6hz76n2ccnhz.jpeg?q=50"
+  },
+  {
+    "id": 4,
+    "brand": "Seven Rocks",
+    "description": "Solid Men Round",
+    "discountPrice": 293,
+    "actualPrice": 1299,
+    "discountPercent": 77,
+    "gender": "men",
+    "size": ["S", "M", "L", "XL"],
+    "image": "https://rukminim1.flixcart.com/image/540/648/k69ncsw0/t-shirt/6/j/c/3xl-t15-seven-rocks-original-imafzrhthhpr4hne.jpeg?q=50"
+  },
+  {
+    "id": 5,
+    "brand": "FastColors",
+    "description": "Solid Men Tshirt",
+    "discountPrice": 319,
+    "actualPrice": 1999,
+    "discountPercent": 84,
+    "gender": "men",
+    "size": ["S", "M"],
+    "image": "https://rukminim1.flixcart.com/image/540/648/kjuby4w0/t-shirt/s/s/c/m-fc4129-fastcolors-original-imafzbjeqte6x3hn.jpeg?q=50"
+  },
+  {
+    "id": 6,
+    "brand": "Selvia",
+    "description": "Casual Petal",
+    "discountPrice": 263,
+    "actualPrice": 1163,
+    "discountPercent": 77,
+    "gender": "women",
+    "size": ["S", "M", "L"],
+    "image": "https://rukminim1.flixcart.com/image/342/410/kflftzk0/top/q/9/4/xl-50tk1091a-selvia-original-imafwysfy5cygzpg.jpeg?q=50"
+  },
+  {
+    "id": 7,
+    "brand": "Fab Star",
+    "description": "Casual Regular",
+    "discountPrice": 419,
+    "actualPrice": 1399,
+    "discountPercent": 77,
+    "gender": "women",
+    "size": ["S", "M", "L", "XL"],
+    "image": "https://rukminim1.flixcart.com/image/415/498/klphn680/top/n/5/x/xl-regular-top-fab-star-original-imagyry2geb5ztzq.jpeg?q=50"
+  },
+  {
+    "id": 8,
+    "brand": "Selvia",
+    "description": "Casual Regular",
+    "discountPrice": 332,
+    "actualPrice": 1497,
+    "discountPercent": 77,
+    "gender": "women",
+    "size": ["S", "M"],
+    "image": "https://rukminim1.flixcart.com/image/415/498/km0x5zk0/top/j/z/o/m-178tkr2901-selvia-original-imagfyqfytkkfpkn.jpeg?q=50"
+  }
+]
